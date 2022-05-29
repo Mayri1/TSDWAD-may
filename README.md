@@ -7,7 +7,7 @@ https://github.com/Aula4Grupo1/TSDWAD.git
 
 Get started by creating a new file or uploading an existing file. 
 
-…or create a new repository on the command line
+…or create a new repository on the command line                               
 echo "# TSDWAD" >> README.md
 
 git init                                                                                     
