@@ -23,3 +23,19 @@ actúa como un líder servicial, ayudando al equipo y a la organización a usar 
 Grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos de tiempos pequeños, cuya duración es de 1 a 4 semanas, con preferencia por los intervalos más cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptación y está construido con un nivel de calidad llamado definición de terminado.
 
 Estos tres roles de Scrum se requieren para crear el producto del proyecto, son los responsables del éxito de cada sprint y del proyecto en su totalidad.
+
+Los Scrum Artifacts
+
+Los Scrum Artifacts son tres "paradas" por las que pasan las tareas que nos permitirán llegar a nuestro objetivo, al Product Goal.
+Estas paradas son:
+-Product Backlog(Pila de Producto)
+	Es una lista o pila ordenada de posibles trabajos a seleccionar para realizar durante una planificación de Sprint.
+	Esta lista debe incluir todo lo que represente o aporte para conseguir el Product Goal. Por ejemplo, un item para explorar las necesidades del cliente y otro para la correción de bugs. 
+
+-Sprint Baclog(Pila de Sprint)
+	Es la pila de tareas a realizar por las que se comprometió el equipo para el Sprint.
+	Estas tareas se encuentras detalladas y sirven para marcar el avance del equipo.
+
+-Increment(Incremento)
+	Es la parte del producto desarrollado en el Sprint.
+	Cada incremento agrega valor al incremento anterior y, bajo un proceso de verificación, se asegura que todos los incrementos trabajen bien juntos.
